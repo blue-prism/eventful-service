@@ -27,4 +27,5 @@ The asset provides interaction with the following API endpoints
 To use this asset, download or clone this repository. Extract the *.bprelease file* and import it into your Blue Prism environment.
 
 Following that, request an **application key** from <http://api.eventful.com>
+
 An application key is a required parameter for all requests in this object.
