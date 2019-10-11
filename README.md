@@ -29,3 +29,5 @@ To use this asset, download or clone this repository. Extract the *.bprelease fi
 Following that, request an **application key** from <http://api.eventful.com>
 
 An application key is a required parameter for all requests in this object.
+
+For more information on the setup and usage of this asset, please refer to this repository's wiki.
